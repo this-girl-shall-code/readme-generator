@@ -56,6 +56,7 @@ As a developer, I wanted to create a README generator so that I can quickly crea
 
 ### This video provides a walkthrough of how to use the application:
 
+https://github.com/this-girl-shall-code/readme-generator/assets/141769052/62802032-cd49-45e4-993e-1c2cf8608301
 
 
 ## License 
